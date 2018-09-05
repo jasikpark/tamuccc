@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://tamuccc.com"
+baseURL = "https://tamuccc.netlify.com"
 languageCode = "en-us"
 title = "TAMU Collegiate Content Creators"
 theme = "forty"
