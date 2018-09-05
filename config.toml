@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "Youtube"
       subtitle = "We will post updates here"
       image = "youtube-image.jpg"
-      url = "https://youtube.com/TAMUCCC"
+      url = "https://www.youtube.com/channel/UCKtxHe1zE0pMSzBhpOAHGlQ"
 
     [[params.tiles.showcase]]
       title = "GroupMe"
