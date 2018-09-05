@@ -110,10 +110,10 @@ disqusShortname = ""
       url = "https://twitter.com/TAMUCCC"
 
     [[params.tiles.showcase]]
-      title = "Discord"
-      subtitle = "Join our Discord server"
+      title = "Instagram"
+      subtitle = "Join our Instagram"
       image = "emoji-face.jpg"
-      url = "https://discord.gg/UhgXdzT"
+      url = "https://instagram.com/TAMUCCC"
 
     # You can make more showcases by copy and pasting the code above
 
