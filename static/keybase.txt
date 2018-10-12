@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jasikpark
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tamuccc.com
+  * I am jasikpark (https://keybase.io/jasikpark) on keybase.
+  * I have a public key ASCYq3MrKACuL8WmiVJALHNwobv2oBdZ55SVU9XD7ttA3Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206de278740e3c4d867c8212ca5c60cb9b17011bbe0694ab0af4ff9c5271cc74200a",
+      "host": "keybase.io",
+      "kid": "012098ab732b2800ae2fc5a68952402c7370a1bbf6a01759e7949553d5c3eedb40dc0a",
+      "uid": "1ac498e7a0c1b5c169bacb98f35eaf19",
+      "username": "jasikpark"
+    },
+    "merkle_root": {
+      "ctime": 1539369620,
+      "hash": "83d4a975b3a9f3ca6ac5836103e25fb9d1812ef890b9fbdc13c047f65852aebc7e18cab5c9649582aca4c277e828ddda9a9dbe204cb026a0f72e2b391496f013",
+      "hash_meta": "24732541861806d11e4cae325c79b98277f1a371d3995dfb868c4de7325d3d2c",
+      "seqno": 3787522
+    },
+    "service": {
+      "entropy": "1su7nBQGyK9rFXT547lfNx2z",
+      "hostname": "tamuccc.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.7.3"
+  },
+  "ctime": 1539369636,
+  "expire_in": 504576000,
+  "prev": "f347c40c8a61e3513a1977706300da8d7ce1e0c0d7f218052bcca833df94206f",
+  "seqno": 58,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmKtzKygAri/FpolSQCxzcKG79qAXWeeUlVPVw+7bQNwKp3BheWxvYWTESpcCOsQg80fEDIph41E6GXdwYwDajXzh4MDX8hgFK8yoM9+UIG/EIKWdMcYGyQE1NbkDnCYNPt+XQN8uf4zPN4KwmkV6smAzAgHCo3NpZ8RAzVqPjwCXlVbanVtmRU74VRfNtlvTk16JxMwpfZpKbeRn1qWlxancWSnw53v3Kt9vsfXZotww1QczSOyy+rCjDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBihcgRED67oUYsT9xrihF+sXaYJk4jMBIEY5Bxb1db+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jasikpark
+
+==================================================================
